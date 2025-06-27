@@ -1,3 +1,3 @@
-### Personal Project: FCC Projects Compilation (HTML/CSS)
+# Personal Project: FCC Projects Compilation (HTML/CSS)
 
-# Introduction:
+## Introduction:
