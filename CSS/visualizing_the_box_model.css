@@ -1,0 +1,32 @@
+.box {
+    /* Content */
+    width: 200px;
+    height: 100px;
+    background: #e0f7fa;
+    text-align: center;
+    display: inline-block;
+
+    /* Box Model - PBM */
+    padding: 20px;
+    border: 5px solid #00796b;
+    margin: 30px:
+}
+
+.box_2 {
+    display: inline-block;
+    /* Content */
+    width: 200px;
+    height: 100px;
+    background: #e0f7fa;
+    text-align: center;
+    display: inline-block;
+
+    /* Box Model - PBM */
+    padding: 20px;
+    border: 5px solid #00796b;
+    margin: 30px;
+}
+
+body {
+    background: #ffe0b2;
+}
