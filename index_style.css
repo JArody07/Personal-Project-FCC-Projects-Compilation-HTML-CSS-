@@ -1,0 +1,29 @@
+body {
+    background-color: #191919;
+    color: #fff;
+    font-family: sans-serif;
+}
+
+.header {
+    text-align: center;
+    padding-top: 15px;
+    background-color: #0a0a23;
+    border-bottom: 4px solid #fdb347;
+}
+
+.logo_header {
+    text-align: left;
+}
+
+.projects_headernav {
+    text-align: right;
+}
+
+.projects_headernav a {
+    color: #fff;
+}
+
+.projects_headernav a:hover {
+    color: #191919;
+}
+
