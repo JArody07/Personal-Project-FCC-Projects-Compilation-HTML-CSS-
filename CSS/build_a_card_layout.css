@@ -1,0 +1,25 @@
+.card {
+    /* Content */
+    width: 300px;
+    /* Padding */
+    padding: 16px;
+    /* Border */
+    border: 2px solid #333;
+    /* Margin */
+    margin: 20px auto;
+    background: #fff;
+    box-shadow: 2px 2px 8px #bbb;
+}
+
+.card img {
+    width: 100%;
+    border-radius: 8px;
+    margin-bottom: 12px; 
+}
+
+.card h2 {
+    /* Padding */
+    padding: 0;
+    /* Margin */
+    margin: 0 0 8px 0;
+}
